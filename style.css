@@ -27,14 +27,14 @@
     font-weight: bold;
   }
   .map-image {
-    max-width: 40%;
+    max-width: 60%;
     height: auto;
     margin-top: 20px;
     margin: 30px auto;
     display: block;
   }
   .turn-image {
-    max-width: 35%;
+    max-width: 55%;
     height: auto;
     margin-top: 20px;
     margin: 30px auto;
