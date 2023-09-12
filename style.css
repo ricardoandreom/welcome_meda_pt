@@ -27,17 +27,17 @@
     font-weight: bold;
   }
   .map-image {
-    max-width: 60%;
+    max-width: auto;
     height: auto;
-    margin-top: 20px;
-    margin: 30px auto;
+    margin-top: auto;
+    margin: auto;
     display: block;
   }
   .turn-image {
-    max-width: 55%;
+    max-width: auto;
     height: auto;
-    margin-top: 20px;
-    margin: 30px auto;
+    margin-top: auto;
+    margin: auto;
     display: block;
   }
   .contact {
